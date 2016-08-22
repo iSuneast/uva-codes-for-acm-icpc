@@ -8,6 +8,6 @@ These codes were written by a nob (I used to be a nob : >), so the code style is
 
 Please don't simply submit these codes.
 
-***The number of ACs doesn't matters that much, and the fun behind it matters!***
+***The number of ACs doesn't matters that much, but the fun does!***
 
 Enjoy!
